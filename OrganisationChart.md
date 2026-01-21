@@ -7,7 +7,7 @@ flowchart TB
 
     HOD --> TA[Technical Architect]
     HOD --> HOP[Head of Product]
-    HOD --> HPT[Head of Platform Team]
+    HOD --> HPE[Head of Platform Engineering]
 
     HOD --> FT1
 
@@ -40,13 +40,13 @@ flowchart TB
     end
     HOP --> PRODUCT
 
-    subgraph NONPROD[IT Team]
+    subgraph ITOPS[IT Operations]
         direction TB
         SA[SysAdmin]
     end
-    subgraph PRODTEAM[Infrastructure Team]
+    subgraph PLATFORMTEAM[Platform Team]
         direction TB
-        DE[DevOps Engineer]
+        SPE[Senior Platform Engineer]
     end
     subgraph OPSTEAM[Operations Team]
         direction TB
@@ -58,9 +58,9 @@ flowchart TB
         PE --- DBA
     end
 
-    HPT --> NONPROD
-    HPT --> PRODTEAM
-    HPT --> OPSTEAM
+    HPE --> ITOPS
+    HPE --> PLATFORMTEAM
+    HPE --> OPSTEAM
 ```
 
 ## Roles
@@ -79,9 +79,9 @@ flowchart TB
 - **Backend Engineer**: `Roles/Development/BackendEngineer.md`
 - **QA (Quality Assurance)**: `Roles/Product/QA.md`
 - **Senior QA**: `Roles/Product/HeadOfQA.md`
-- **Head of Platform Team**: `Roles/Platform/HeadOfPlatformTeam.md`
+- **Head of Platform Engineering**: `Roles/Platform/HeadOfPlatformEngineering.md`
 - **SysAdmin**: `Roles/Platform/SysAdmin.md`
 - **Operation Lead**: `Roles/Platform/OperationsLead.md`
 - **DBA**: `Roles/Platform/DBA.md`
 - **Production Engineer**: `Roles/Platform/ProductionEngineer.md`
-- **DevOps Engineer**: `Roles/Platform/DevOpsEngineer.md`
+- **Seneior Platform Engineer**: `Roles/Platform/SeniorPlatformEngineer.md`

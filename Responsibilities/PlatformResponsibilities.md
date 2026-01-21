@@ -1,6 +1,7 @@
 ### CI/CD & Deployment Tooling
 - Design, build, and maintain CI/CD pipelines used by product teams
 - Provide standardised build and deployment workflows for services
+- Work with product engineering teams to define and maintain branching and release strategies that align with platform tooling and deployment workflows
 - Maintain deployment tooling and release processes for on-premise environments
 
 ### Runtime Infrastructure

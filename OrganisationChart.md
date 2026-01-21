@@ -46,7 +46,7 @@ flowchart TB
     end
     subgraph PLATFORMTEAM[Platform Team]
         direction TB
-        SPE[Senior Platform Engineer]
+        PFE[Platform Engineer]
     end
     subgraph OPSTEAM[Operations Team]
         direction TB
@@ -84,4 +84,4 @@ flowchart TB
 - **Operation Lead**: `Roles/Platform/OperationsLead.md`
 - **DBA**: `Roles/Platform/DBA.md`
 - **Production Engineer**: `Roles/Platform/ProductionEngineer.md`
-- **Seneior Platform Engineer**: `Roles/Platform/SeniorPlatformEngineer.md`
+- **Platform Engineer**: `Roles/Platform/PlatformEngineer.md`

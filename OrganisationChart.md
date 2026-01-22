@@ -81,9 +81,9 @@ flowchart TB
 - **Backend Engineer**: `Roles/Development/BackendEngineer.md`
 - **QA (Quality Assurance)**: `Roles/Product/QA.md`
 - **Senior QA**: `Roles/Product/HeadOfQA.md`
-- **Head of Technical Operations**: `Roles/Platform/HeadOfTechnicalOperations.md`
-- **SysAdmin**: `Roles/Platform/SysAdmin.md`
-- **Production Operations Lead**: `Roles/Platform/ProductionOperationsLead.md`
-- **DBA**: `Roles/Platform/DBA.md`
-- **Production Engineer**: `Roles/Platform/ProductionEngineer.md`
-- **Platform Engineer**: `Roles/Platform/PlatformEngineer.md`
+- **Head of Technical Operations**: `Roles/TechnicalOperations/HeadOfTechnicalOperations.md`
+- **SysAdmin**: `Roles/TechnicalOperations/SysAdmin.md`
+- **Production Operations Lead**: `Roles/TechnicalOperations/ProductionOperationsLead.md`
+- **DBA**: `Roles/TechnicalOperations/DBA.md`
+- **Production Engineer**: `Roles/TechnicalOperations/ProductionEngineer.md`
+- **Platform Engineer**: `Roles/TechnicalOperations/PlatformEngineer.md`

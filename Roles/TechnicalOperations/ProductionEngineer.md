@@ -27,5 +27,4 @@ can be standardised over time.
 - Ability to write automation/scripts to support operational processes
 
 ## Responsibilities
-@import "../../Responsibilities/ProductionOperationsResponsibilities.md"
-
+@import "../../ResponsibliesOverview/ProductionOperationsResponsibilities.md"

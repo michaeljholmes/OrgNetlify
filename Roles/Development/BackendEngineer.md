@@ -9,7 +9,6 @@ Proficient at C# etc.
 
 ## Responsibilities
 
-@import "../../Responsibilities/BackendResponsibilities.md"
+@import "../../ResponsibliesOverview/BackendResponsibilities.md"
 
-@import "../../Responsibilities/DeveloperResponsibilities.md"
-
+@import "../../ResponsibliesOverview/DeveloperResponsibilities.md"

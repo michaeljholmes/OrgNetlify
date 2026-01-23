@@ -27,5 +27,4 @@ so that customer-impacting work becomes more repeatable and lower-risk.
 - Ability to collaborate with development teams and Platform Services on cross-team issues
 
 ## Responsibilities
-@import "../../Responsibilities/ProductionOperationsResponsibilities.md"
-
+@import "../../ResponsibliesOverview/ProductionOperationsResponsibilities.md"

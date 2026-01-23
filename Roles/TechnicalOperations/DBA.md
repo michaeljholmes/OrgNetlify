@@ -27,5 +27,4 @@ and database-side tooling).
 - Ability to automate database operations (scripts/tooling) where appropriate
 
 ## Responsibilities
-@import "../../Responsibilities/ProductionOperationsResponsibilities.md"
-
+@import "../../ResponsibliesOverview/ProductionOperationsResponsibilities.md"

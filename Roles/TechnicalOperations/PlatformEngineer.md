@@ -32,4 +32,4 @@ goals for reliability, scalability, security, and developer experience.
 - Ability to work independently, contribute to technical efforts, and take ownership of shared systems
 
 ## Responsibilities
-@import "../../Responsibilities/PlatformResponsibilities.md"
+@import "../../ResponsibliesOverview/PlatformResponsibilities.md"

@@ -9,6 +9,6 @@ Proficient at React etc.
 
 ## Responsibilities
 
-@import "../../Responsibilities/FrontendResponsibilities.md"
+@import "../../ResponsibliesOverview/FrontendResponsibilities.md"
 
-@import "../../Responsibilities/DeveloperResponsibilities.md"
+@import "../../ResponsibliesOverview/DeveloperResponsibilities.md"

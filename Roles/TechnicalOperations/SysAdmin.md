@@ -25,5 +25,4 @@ and is typically the first point of execution for IT Operations tasks.
 - Ability to work independently and take ownership of IT-managed systems
 
 ## Responsibilities
-@import "../../Responsibilities/ITOperationsResponsibilities.md"
-
+@import "../../ResponsibliesOverview/ITOperationsResponsibilities.md"

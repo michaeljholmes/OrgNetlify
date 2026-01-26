@@ -4,9 +4,9 @@
 This role is focused on defining product direction and vision. They are responsible for balancing customers needs and business needs and ensuring the product is the right product, for the right users at the right time and that real business value is delivered.
 
 ## Skills
-Clear communication
-Risk Management
-Ownership and adaptability
+- Clear communication
+- Risk Management
+- Ownership and adaptability
 
 ## Responsibilities
 - Responsible for balancing customer needs and business needs and collaborating with the technical team to define the product direction and vision.

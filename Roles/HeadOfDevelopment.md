@@ -14,7 +14,4 @@ The Head of Development is responsible for the overall effectiveness of the soft
 - Own engineering delivery outcomes, ensuring teams can plan and deliver work predictably with appropriate quality.
 - Build and lead high-performing engineering teams through hiring, onboarding, capability development, and retention.
 - Set and uphold engineering standards and ways of working (quality, security, testing, code review).
-- Manage engineering capacity and priorities across teams, including coordinating dependencies and resolving conflicts.
-- Drive continuous improvement through metrics and feedback (delivery performance, defects, incidents, technical debt).
-- Partner with Product leadership to shape roadmaps, manage technical risk, and communicate trade-offs.
-- Support and develop Team Leads and senior engineers.
+@import "../../ResponsibliesOverview/LeadResponsibilities.md"

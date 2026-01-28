@@ -17,3 +17,6 @@ This role is focused on defining product direction and vision. They are responsi
 - Clear communication
 - Risk Management
 - Ownership and adaptability
+
+## Reports to
+- Head of Development

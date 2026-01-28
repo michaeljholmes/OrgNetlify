@@ -15,3 +15,6 @@ The Software Team Lead is responsible for both people and technical leadership w
 ## Skills
 - Demonstrated experience leading projects or small teams.
 - Experience in coaching, mentoring, or people management.
+
+## Reports to
+- Head of Development

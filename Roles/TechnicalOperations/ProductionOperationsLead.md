@@ -16,3 +16,6 @@ Where processes are not yet formalised, this role is responsible for ensuring kn
 - Strong organisational skills (prioritisation, scheduling, coordination)
 - Strong understanding of operational risk and change control
 - Ability to collaborate with development teams and Platform Services on cross-team issues
+
+## Reports to
+- Head of Technical Operations

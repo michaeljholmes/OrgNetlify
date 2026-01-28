@@ -18,3 +18,6 @@ This role is focused on back-end development.
 - Leads incident investigations and post-incident reviews (root cause analysis and prevention-focused follow-ups).
 - Strong testing strategy (unit, integration) and improving CI quality gates.
 - Mentors engineers through code/design reviews and drives pragmatic improvements to technical debt.
+
+## Reports to
+- Team Lead

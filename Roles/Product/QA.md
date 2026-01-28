@@ -18,3 +18,6 @@ The QA role is responsible for ensuring the product meets the expected quality s
 - Experience with test automation frameworks and integrating automated tests into CI/CD.
 - Strong attention to detail and ability to assess risk, impact, and severity.
 - Clear written and verbal communication for defect reporting and stakeholder updates.
+
+## Reports to
+- Senior QA

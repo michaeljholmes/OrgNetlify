@@ -23,3 +23,6 @@ The Technical Architect is responsible for defining and maintaining the architec
 - Knowledge of scalability, reliability, and operability patterns (SLOs/SLIs, observability, resilience).
 - Experience producing clear architecture documentation (ADRs, diagrams) and communicating decisions.
 - Facilitation and stakeholder management skills for design reviews and cross-team alignment.
+
+## Reports to
+- Head of Development

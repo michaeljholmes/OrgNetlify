@@ -18,3 +18,6 @@ The Senior QA role is responsible for leading quality practices across the produ
 - Ability to mentor other QAs and influence engineering and product teams toward better quality outcomes.
 - Strong analytical and troubleshooting skills to identify root causes of quality issues and reduce defects.
 - Strong communication skills for setting expectations, presenting risk, and driving decisions with stakeholders.
+
+## Reports to
+- Head of Product

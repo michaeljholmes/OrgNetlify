@@ -16,3 +16,6 @@ This role is focused on back-end development.
 - Experience with relational databases (SQL Server/PostgreSQL) including schema design and query optimisation.
 - Observability and operational readiness: structured logging, metrics, tracing, and diagnosing production issues.
 - Testing practices for backend services (unit, integration) and working with CI pipelines.
+
+## Reports to
+- Senior Backend Engineer

@@ -19,3 +19,6 @@ The Senior UI/UX role works closely with Product to obtain and shape requirement
 - Ability to define and maintain design systems, component standards, and interaction patterns.
 - Strong stakeholder communication and facilitation skills (workshops, critiques, presenting options and trade-offs).
 - Ability to validate designs with users and data (testing, analytics, feedback loops).
+
+## Reports to
+- Head of Product

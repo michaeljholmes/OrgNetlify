@@ -16,3 +16,6 @@ The Production Engineer also contributes to improving processes and tooling used
 - Ability to work safely with production systems (change control, approvals, audit trails)
 - Basic understanding of SQL and database concepts to investigate data issues
 - Ability to write automation/scripts to support operational processes
+
+## Reports to
+- Production Operations Lead

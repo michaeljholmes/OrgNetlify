@@ -24,3 +24,6 @@ This role reports to the Head of Development to ensure Technical Operations alig
 - Strong process design skills (workflows, runbooks, change control, incident management)
 - Ability to facilitate collaboration across teams and resolve ownership/priority conflicts
 - Clear written communication for operational standards and procedures
+
+## Reports to
+- Head of Development

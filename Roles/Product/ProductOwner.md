@@ -1,7 +1,7 @@
 # Product Owner
 
 ## Role Summary
-This role is focused on defining product direction and vision. They are responsible for balancing customers needs and business needs and ensuring the product is the right product, for the right users at the right time and that real business value is delivered.
+This role is focused on maximizing product value by representing the customer, managing the product backlog (prioritized features), and bridging the gap between stakeholders (business/users) and the development team, focusing on what to build and why, ensuring the team delivers features aligned with strategic goals
 
 ## Skills
 - Problem solving
@@ -25,3 +25,4 @@ This role is focused on defining product direction and vision. They are responsi
 - Liasing with development team leaders to ensure objectives are met and communcate any blockers/ challenges to stakeholders
 - Work with head of QA, product and technical to sign off on features and plan and execute feature rollout
  
+

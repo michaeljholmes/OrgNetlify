@@ -7,11 +7,9 @@ The Software Team Lead is responsible for both people and technical leadership w
 - Own the planning and delivery of work within the feature team.
 - Lead work breakdown of requirements to workable tasks. Liaise with senior engineers to ensure tickets are of a high quality.
 - Ensure the team adheres to coding standards, architectural guidelines, and quality practices.
-- Line manage team members, including regular 1:1s and performance feedback.
-- Participate in recruitment and onboarding of new team members.
 - Collaborate with other Team Leads to manage dependencies and cross-team initiatives.
-- Identify where team members might need further training and assistance and where necessary, raise competency issues with Head of Development.
 
+@import "../../ResponsibliesOverview/LeadResponsibilities.md"
 @import "../../ResponsibliesOverview/SeniorResponsibilities.md"
 
 ## Skills

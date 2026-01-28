@@ -15,6 +15,8 @@ This role reports to the Head of Development to ensure Technical Operations alig
 - Ensure Technical Operations aligns with business standards and priorities via regular reporting to Head of Development
 - Facilitate effective collaboration with Support and Development for escalations, changes, and cross-team initiatives
 
+@import "../../ResponsibliesOverview/LeadResponsibilities.md"
+
 ## Skills
 
 - Strong technical breadth across infrastructure, operations, and production support

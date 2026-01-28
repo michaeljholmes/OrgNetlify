@@ -1,4 +1,3 @@
 - Manage engineering capacity and priorities across teams, including coordinating dependencies and resolving conflicts.
-- Drive continuous improvement through metrics and feedback (delivery performance, defects, incidents, technical debt).
 - Partner with Product leadership to shape roadmaps, manage technical risk, and communicate trade-offs.
 - Support and develop Team Leads and senior engineers.

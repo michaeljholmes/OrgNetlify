@@ -14,7 +14,7 @@ The Technical Architect is responsible for defining and maintaining the architec
 - Lead or support cross-cutting technical initiatives (e.g. platform upgrades, security improvements).
 - Mentor Senior Engineers and Team Leads on architectural considerations.
 - Maintain diagrams and documentation for critical systems and integrations.
-- Ensure consistancy across teams.
+- Ensure consistency across teams.
 
 ## Skills
 - Experience with cloud infrastructure, DevOps practices, and security principles.
@@ -24,3 +24,5 @@ The Technical Architect is responsible for defining and maintaining the architec
 - Experience producing clear architecture documentation (ADRs, diagrams) and communicating decisions.
 - Facilitation and stakeholder management skills for design reviews and cross-team alignment.
 
+## Reports to
+- Head of Development

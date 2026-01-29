@@ -18,3 +18,6 @@ The SysAdmin is the primary hands-on administrator within IT Operations. This ro
 - Strong troubleshooting skills across OS, networking, and core IT services
 - Ability to write automation and tooling scripts (e.g. PowerShell, Bash, Python)
 - Ability to work independently and take ownership of IT-managed systems
+
+## Reports to
+- Head of Technical Operations

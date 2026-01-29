@@ -19,3 +19,6 @@ This role is focused on front-end development.
 - Experience integrating with APIs (REST/GraphQL) and designing robust client-side error/loading/edge-case handling.
 - Strong testing strategy (unit/component, contract and e2e testing) and improving CI quality gates.
 - Mentors engineers through code/design reviews and drives pragmatic improvements to technical debt.
+
+## Reports to
+- Team Lead

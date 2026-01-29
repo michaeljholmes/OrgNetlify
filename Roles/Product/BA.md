@@ -1,7 +1,7 @@
 # Business Analyst 
 
 ## Role Summary
-The role focuses on avctivng as a bridge between the development team and product to define low level requirement and clarify any queries which arise during the development process
+The role focuses on avctivng as a bridge between the development team and product to define low level requirement and clarify any queries which arise during the development process.
 
 ## Skills
 - Requirement elicitation and translation
@@ -16,3 +16,6 @@ The role focuses on avctivng as a bridge between the development team and produc
 - Working closely with product owenr when gathering user and stakeholder requirements to ensure devlop a solid understanding of the features objectives
 - Escate any product related queries from the development team to product.
 - Assisting QA to ensure a features quality can be measured effetviely with clear acceptance criteria
+
+## Reports to
+- Product Owner

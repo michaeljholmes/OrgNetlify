@@ -19,3 +19,6 @@ This Platform Engineer role focuses on designing, building, and operating produc
 - Understanding of infrastructure security, access control, and secrets management
 - Strong troubleshooting skills across infrastructure and platform components
 - Ability to work independently, contribute to technical efforts, and take ownership of shared systems
+
+## Reports to
+- Head of Technical Operations

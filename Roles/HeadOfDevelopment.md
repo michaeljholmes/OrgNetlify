@@ -16,3 +16,6 @@ The Head of Development is responsible for the overall effectiveness of the soft
 - Strong understanding of software delivery practices (planning, quality, testing, release management, incident learnings).
 - Ability to partner with Product and other stakeholders to manage scope, risk, and expectations.
 - Strong communication skills for decision making, escalation management, and cross-team alignment.
+
+## Reports to
+- Managing Director

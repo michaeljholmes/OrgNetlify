@@ -11,7 +11,12 @@ This role is focused on defining product direction and vision. They are responsi
 - Track product performance and make data-driven decisions.
 - Deliver high level requirements to Product Owner/BA/UX/UI and guide further requirement breakdown where needed to produce clear, concise and deliverable requirements to the devlopment team.
 
+@import "../../ResponsibliesOverview/ManagementResponsibilities.md"
+
 ## Skills
 - Clear communication
 - Risk Management
 - Ownership and adaptability
+
+## Reports to
+- Head of Development

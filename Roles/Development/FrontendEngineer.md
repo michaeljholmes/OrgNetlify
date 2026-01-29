@@ -19,3 +19,6 @@ This role is focused on front-end development.
 - Experience integrating with APIs (REST, GQL), and handling loading, error states, and edge cases.
 - Frontend testing practices (unit/component tests, contract and e2e testing).
 - Performance awareness (bundle size, render performance) and using browser devtools to diagnose issues.
+
+## Reports to
+- Senior Frontend Engineer

@@ -15,3 +15,6 @@ The DBA provides database expertise and operational support across the business,
 - Understanding of backup/restore, HA/DR concepts, and capacity planning
 - Strong troubleshooting skills for database and data-related incidents
 - Ability to automate database operations (scripts/tooling) where appropriate
+
+## Reports to
+- Production Operations Lead

@@ -24,5 +24,6 @@ This role is focused on maximizing product value by representing the customer, m
 - Working with develpment teams to ensure features developed meet the business requirement through regular show and tells
 - Liasing with development team leaders to ensure objectives are met and communcate any blockers/ challenges to stakeholders
 - Work with head of QA, product and technical to sign off on features and plan and execute feature rollout
- 
 
+## Reports to
+- Head of Product

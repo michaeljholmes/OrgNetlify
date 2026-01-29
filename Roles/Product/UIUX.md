@@ -19,3 +19,6 @@ The UI/UX role works with BAs and Product Owners to define low-level, implementa
 - Ability to collaborate with BAs, Product, and Development to clarify requirements and resolve ambiguity.
 - Ability to create design specifications that are fit for development (states, behaviours, edge cases).
 - Familiarity with design tools and component-based design systems.
+
+## Reports to
+- Senior UI/UX

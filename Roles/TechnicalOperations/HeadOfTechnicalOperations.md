@@ -15,6 +15,8 @@ This role reports to the Head of Development to ensure Technical Operations alig
 - Ensure Technical Operations aligns with business standards and priorities via regular reporting to Head of Development
 - Facilitate effective collaboration with Support and Development for escalations, changes, and cross-team initiatives
 
+@import "../../ResponsibliesOverview/LeadResponsibilities.md"
+
 ## Skills
 
 - Strong technical breadth across infrastructure, operations, and production support
@@ -22,3 +24,6 @@ This role reports to the Head of Development to ensure Technical Operations alig
 - Strong process design skills (workflows, runbooks, change control, incident management)
 - Ability to facilitate collaboration across teams and resolve ownership/priority conflicts
 - Clear written communication for operational standards and procedures
+
+## Reports to
+- Head of Development

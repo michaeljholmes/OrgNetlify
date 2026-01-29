@@ -1,7 +1,7 @@
 # Production Operations Lead
 
 ## Role Summary
-The Production Operations Lead ensures the Production Operations team's work is planned and coordinated, and that operational processes are followed. This role owns the day-to-day management of customer merge/data transfer activities (scheduling, coordination, and operational readiness) and ensures DBAs and Production Engineers are aligned when work spans database performance, tooling, and customer data operations.
+The Production Operations Lead ensures the Production Operations team's work is planned and coordinated, and that operational processes are followed. This role owns the day-to-day management of customer merge/data transfer activities (scheduling, coordination, and operational readiness) and ensures Production Engineers are aligned when work spans database performance, tooling, and customer data operations.
 
 Where processes are not yet formalised, this role is responsible for ensuring knowledge is captured and turned into lightweight runbooks/checklists over time, so that customer-impacting work becomes more repeatable and lower-risk.
 

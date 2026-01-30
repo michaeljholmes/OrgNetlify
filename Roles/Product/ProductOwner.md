@@ -18,12 +18,12 @@ This role is focused on maximizing product value by representing the customer, m
 - Creating, managing and prioritsing features in the product backlog for the development team
 - Building and owning feature requirement specification documents
 - Working with UX to create software flows/designs prototypes
-- Working with BA and QA to enrich specification documents with detailed acceptance criteria
+- Working with BA to enrich specification documents with detailed acceptance criteria
 - Communicating the requirements, value and objectives of features to the development team
 - Act as an escalation point for BA on in flight product related questions
 - Working with develpment teams to ensure features developed meet the business requirement through regular show and tells
 - Liasing with development team leaders to ensure objectives are met and communcate any blockers/ challenges to stakeholders
-- Work with head of QA, product and technical to sign off on features and plan and execute feature rollout
+- Work with product and technical to sign off on features and plan and execute feature rollout
 
 ## Reports to
 - Head of Product

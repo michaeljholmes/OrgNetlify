@@ -1,7 +1,7 @@
-# Optix1 Developer
+# Maintenance Developer
 
 ## Role Summary
-This role is responsible for delivering features and fixes for Optix1 as part of a cross-functional feature team.
+This role is responsible for delivering features and fixes for Optix1 as part of a cross-functional engineering team.
 @import "../../RoleOverview/DeveloperRole.md"
 
 ## Responsibilities

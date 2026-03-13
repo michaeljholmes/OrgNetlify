@@ -11,9 +11,9 @@ flowchart TB
     HOD --> HOP[Head of Product]
     HOD --> HTO[Head of Technical Operations]
 
-    HOD --> FT1
+    HOD --> ET1
 
-    subgraph FT1[Feature Team]
+    subgraph ET1[Engineering Team]
         direction TB
         TL[Team Lead]
         SFE[Senior Frontend Engineer]
@@ -21,14 +21,12 @@ flowchart TB
         SBE[Senior Backend Engineer]
         BE1[Backend Engineers x6]
         BI[BI Engineer]
-        O1D[Optix1 Developer]
 
         TL --> SFE
         SFE --- FE1
         FE1 --- SBE
         SBE --- BE1
         BE1 --- BI
-        BI --- O1D
     end
 
     subgraph PRODUCT[Product Team]
@@ -77,6 +75,7 @@ flowchart TB
 
         POL --- PRODE
         PRODE --- DBA
+        DBA --- O1D[Maintenance Developer]
     end
 
     HTO --> PLATFORM_SERVICES
@@ -99,7 +98,7 @@ flowchart TB
 - **Frontend Engineer**: `Roles/Development/FrontendEngineer.md`
 - **Senior Backend Engineer**: `Roles/Development/SeniorBackendEngineer.md`
 - **Backend Engineer**: `Roles/Development/BackendEngineer.md`
-- **Optix1 Developer**: `Roles/Development/Optix1Developer.md`
+- **Maintenance Developer**: `Roles/TechnicalOperations/MaintenanceDeveloper.md`
 - **Head of Technical Operations**: `Roles/TechnicalOperations/HeadOfTechnicalOperations.md`
 - **SysAdmin**: `Roles/TechnicalOperations/SysAdmin.md`
 - **Production Operations Lead**: `Roles/TechnicalOperations/ProductionOperationsLead.md`

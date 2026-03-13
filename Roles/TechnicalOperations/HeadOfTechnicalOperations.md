@@ -16,6 +16,7 @@ This role reports to the Head of Development to ensure Technical Operations alig
 - Facilitate effective collaboration with Support and Development for escalations, changes, and cross-team initiatives
 
 @import "../../ResponsibliesOverview/LeadResponsibilities.md"
+@import "../../ResponsibliesOverview/ManagementResponsibilities.md"
 
 ## Skills
 

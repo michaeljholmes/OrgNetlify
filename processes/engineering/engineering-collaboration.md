@@ -45,13 +45,3 @@ This document outlines the standard process for engineering work, from feature r
 1.  **BE Implementation**: The BE team builds the underlying data-source APIs and implements the GraphQL resolvers. Once complete, the service is deployed to a development environment.
 2.  **FE Component & Test Preparation**: While the BE implementation is in progress, the FE team builds out the required UI components based on the agreed designs and prepares the testing suite.
     -   This includes writing contract tests against the agreed GraphQL schema, which may involve mocking the schema.
-
-## 4. Integration, Testing & Handoff
-
-- **Goal**: To ensure the FE and BE components work together seamlessly and meet the feature requirements.
-
-### Process:
-1.  **Integration**: Once the GraphQL service is deployed to a shared development or staging environment, the FE team integrates the live service into the components.
-2.  **E2E Testing**: Both teams collaborate on E2E testing to identify and fix any issues at the boundary between the FE and BE.
-3.  **QA & Validation**: The completed feature is handed over to the Product team and/or QA for validation against the acceptance criteria.
-4.  **Release**: Once validated, the feature is scheduled for release according to the standard release process.

@@ -25,6 +25,14 @@
     - [DBA](Roles/TechnicalOperations/DBA.md)
   - [Technical Architect](Roles/TechnicalArchitect.md)
 
+- Role Overview
+  - [Developer Role](RoleOverview/DeveloperRole.md)
+  - [Lead Developer Role](RoleOverview/LeadDeveloperRole.md)
+  - [Platform Role](RoleOverview/PlatformRole.md)
+  - [IT Operations Role](RoleOverview/ITOperationsRole.md)
+  - [Production Operations Role](RoleOverview/ProductionOperationsRole.md)
+  - [Technical Operations Role](RoleOverview/TechnicalOperationsRole.md)
+
 - Responsibilities Overview
   - [Lead Responsibilities](ResponsibliesOverview/LeadResponsibilities.md)
   - [Lead Engineer Responsibilities](ResponsibliesOverview/LeadEngineerResponsibilities.md)

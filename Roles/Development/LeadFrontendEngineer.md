@@ -1,14 +1,14 @@
-# Senior Frontend Engineer
+# Lead Frontend Engineer
 
 ## Role Summary
 This role is focused on front-end development.
-@import "../../RoleOverview/DeveloperRole.md"
+@import "../../RoleOverview/LeadDeveloperRole.md"
 
-## Responsibilities
+**Scope & Accountability:** Owns technical direction and quality bar for frontend engineering, including line management, coaching, and development of frontend engineers.
+
+@import "../../ResponsibliesOverview/LeadEngineerResponsibilities.md"
 
 @import "../../ResponsibliesOverview/FrontendResponsibilities.md"
-
-@import "../../ResponsibliesOverview/SeniorResponsibilities.md"
 
 ## Skills
 - Deep proficiency with React and modern frontend patterns, and ability to design maintainable UI architecture.

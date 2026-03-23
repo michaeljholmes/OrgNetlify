@@ -16,17 +16,19 @@ flowchart TB
     subgraph ET1[Engineering Team]
         direction TB
         TL[Team Lead]
-        SFE[Senior Frontend Engineer]
+        SFE[Lead Frontend Engineer]
         FE1[Frontend Engineers x4]
-        SBE[Senior Backend Engineer]
+        SBE[Lead Backend Engineer]
         BE1[Backend Engineers x6]
         BI[BI Engineer]
+        O1D[Maintenance Developer]
 
         TL --> SFE
         SFE --- FE1
         FE1 --- SBE
         SBE --- BE1
         BE1 --- BI
+        BI --- O1D
     end
 
     subgraph PRODUCT[Product Team]
@@ -44,7 +46,7 @@ flowchart TB
 
         subgraph PRODUCT_UX[Design]
             direction TB
-            HOUIUX[Senior UI/UX]
+            HOUIUX[Lead UI/UX]
             UX[UI/UX]
 
             HOUIUX --- UX
@@ -75,7 +77,6 @@ flowchart TB
 
         POL --- PRODE
         PRODE --- DBA
-        DBA --- O1D[Maintenance Developer]
     end
 
     HTO --> PLATFORM_SERVICES
@@ -93,15 +94,15 @@ flowchart TB
 - **BA (Business Analyst)**: `Roles/Product/BA.md`
 - **Product Owner**: `Roles/Product/ProductOwner.md`
 - **UI/UX**: `Roles/Product/UIUX.md`
-- **Senior UI/UX**: `Roles/Product/SeniorUIUX.md`
-- **Senior Frontend Engineer**: `Roles/Development/SeniorFrontendEngineer.md`
+- **Lead UI/UX**: `Roles/Product/LeadUIUX.md`
+- **Lead Frontend Engineer**: `Roles/Development/LeadFrontendEngineer.md`
 - **Frontend Engineer**: `Roles/Development/FrontendEngineer.md`
-- **Senior Backend Engineer**: `Roles/Development/SeniorBackendEngineer.md`
+- **Lead Backend Engineer**: `Roles/Development/LeadBackendEngineer.md`
 - **Backend Engineer**: `Roles/Development/BackendEngineer.md`
-- **Maintenance Developer**: `Roles/TechnicalOperations/MaintenanceDeveloper.md`
+- **Maintenance Developer**: `Roles/Development/MaintenanceDeveloper.md`
 - **Head of Technical Operations**: `Roles/TechnicalOperations/HeadOfTechnicalOperations.md`
 - **SysAdmin**: `Roles/TechnicalOperations/SysAdmin.md`
 - **Production Operations Lead**: `Roles/TechnicalOperations/ProductionOperationsLead.md`
- - **DBA**: `Roles/TechnicalOperations/DBA.md`
+- **DBA**: `Roles/TechnicalOperations/DBA.md`
 - **Production Engineer**: `Roles/TechnicalOperations/ProductionEngineer.md`
 - **Platform Engineer**: `Roles/TechnicalOperations/PlatformEngineer.md`

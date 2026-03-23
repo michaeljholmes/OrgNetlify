@@ -12,19 +12,15 @@ This document outlines the Kanban methodology adopted by the engineering team to
 
 ## Kanban Board Structure
 
-Our board is designed to mirror our staggered development workflow. Each column has a Work-In-Progress (WIP) limit to ensure a smooth flow.
+Our board is designed to mirror a single-stream development workflow. Each column has a Work-In-Progress (WIP) limit to ensure a smooth flow.
 
 | Column | Description | Suggested WIP Limit |
 | --- | --- | --- |
 | **Backlog** | A prioritized list of all upcoming features, bugs, and technical debt. Managed by the Product Owner. | N/A |
 | **To Do** | Work items that have been committed to and are ready to be started. | 5 |
-| **BE Development** | Backend implementation is in progress. | 3 |
-| **BE Review** | A pull request has been created and is awaiting review from another BE engineer. | 2 |
-| **Ready for FE** | BE work is complete, merged, and deployed to a development/staging environment. The GraphQL service is updated. | N/A (Buffer column) |
-| **FE Development** | Frontend implementation and integration are in progress. | 3 |
-| **FE Review** | A pull request has been created and is awaiting review (includes Design Review). | 2 |
-| **Ready for UAT** | The feature is fully integrated and ready for functional and user experience verification. | N/A (Buffer column) |
-| **UAT / E2E Testing** | The feature is being actively reviewed by the BA and UI/UX team. E2E tests are running. | 3 |
+| **Development** | Implementation and testing are in progress (backend, frontend, or full-stack), including internal collaboration and code review within the engineering team. | 4 |
+| **Product Review** | The Product Team (PO/BA) validates business outcomes and confirms the feature is ready for release. | 2 |
+| **UAT** | The feature is being actively reviewed for functional and user experience validation by the BA and UI/UX team. | 3 |
 | **Done** | The feature has been signed off and is ready to be included in the next release. | N/A |
 
 ## Handling Different Work Types

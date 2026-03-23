@@ -5,6 +5,8 @@ The Production Engineer executes customer merges and data transfers, and investi
 
 The Production Engineer also contributes to improving processes and tooling used for customer data operations. Where documentation or runbooks are missing, this role feeds improvements back to the Production Operations Lead so that processes can be standardised over time.
 
+**Scope & Accountability:** Owns execution and investigation of production data operations, ensuring work is performed safely, accurately, and in line with operational controls.
+
 @import "../../RoleOverview/ProductionOperationsRole.md"
 
 ## Responsibilities

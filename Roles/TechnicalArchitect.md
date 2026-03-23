@@ -3,6 +3,8 @@
 ## Role Summary
 The Technical Architect is responsible for defining and maintaining the architectural vision, standards, and patterns across the platform. They ensure that systems are scalable, secure, maintainable, and aligned with business goals.
 
+**Scope & Accountability:** Owns architectural direction, standards, and technical governance across teams, ensuring major technical decisions align with business and engineering goals.
+
 ## Responsibilities
 - Define and communicate the overarching technical and architectural direction.
 - Explains complex concepts in clear, accessible language and explains why decisions have been made to the team.
@@ -12,7 +14,7 @@ The Technical Architect is responsible for defining and maintaining the architec
 - Work closely with Product to ensure feasibility and alignment with long-term strategy.
 - Identify and mitigate architectural risks and significant technical debt.
 - Lead or support cross-cutting technical initiatives (e.g. platform upgrades, security improvements).
-- Mentor Senior Engineers and Team Leads on architectural considerations.
+- Mentor Lead Engineers and Team Leads on architectural considerations.
 - Maintain diagrams and documentation for critical systems and integrations.
 - Ensure consistency across teams.
 

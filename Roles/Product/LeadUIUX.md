@@ -1,7 +1,9 @@
-# Senior UI/UX
+# Lead UI/UX
 
 ## Role Summary
-The Senior UI/UX role works closely with Product to obtain and shape requirements, rapidly create wireframes and prototypes to test ideas, and deliver high-quality designs while ensuring UI and UX standards are consistently met throughout the application.
+The Lead UI/UX role works closely with Product to obtain and shape requirements, rapidly create wireframes and prototypes to test ideas, and deliver high-quality designs while ensuring UI and UX standards are consistently met throughout the application.
+
+**Scope & Accountability:** Owns design quality standards and design-system direction, ensuring UI/UX outputs are implementation-ready, consistent, and user-centred.
 
 ## Responsibilities
 - Partner with Product to define and refine requirements, user journeys, and success criteria for new features.

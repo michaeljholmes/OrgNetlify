@@ -10,12 +10,12 @@ This document outlines the standard process for engineering work, from feature r
 
 ## 1. Feature Kick-off & Work Breakdown
 
-- **Participants**: Team Leaders, Senior FE Engineer, Senior BE Engineer, BA, and UI/UX.
+- **Participants**: Team Leaders, Lead FE Engineer, Lead BE Engineer, BA, and UI/UX.
 - **Goal**: To achieve a shared understanding of the feature, clarify requirements, and identify dependencies.
 - **Assumption**: This process begins after the lower-level requirements have been reviewed by the team and the work is deemed ready to begin.
 
 ### Process:
-1.  **Initial Review**: The senior engineers review the low-level requirements from the Product team.
+1.  **Initial Review**: The lead engineers review the low-level requirements from the Product team.
 2.  **Technical Breakdown Session**: A meeting is held to:
     -   Decompose the feature into smaller, manageable tasks for both FE and BE.
     -   Identify required API endpoints and GraphQL operations (queries, mutations).

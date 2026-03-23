@@ -4,6 +4,8 @@
 This role is focused on back-end development.
 @import "../../RoleOverview/DeveloperRole.md"
 
+**Scope & Accountability:** Delivers backend features and fixes to agreed requirements and quality standards, including reliable APIs, data integrity, and operational readiness.
+
 ## Responsibilities
 
 @import "../../ResponsibliesOverview/BackendResponsibilities.md"
@@ -19,4 +21,4 @@ This role is focused on back-end development.
 - Experience with GraphQL, including schema design and maintaining a C# GraphQL service.
 
 ## Reports to
-- Senior Backend Engineer
+- Lead Backend Engineer

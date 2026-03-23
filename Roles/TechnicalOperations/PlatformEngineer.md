@@ -3,6 +3,8 @@
 ## Role Summary
 This Platform Engineer role focuses on designing, building, and operating product-focused infrastructure and tooling in a self-hosted environment. The Platform Engineer contributes to the technical direction for the internal platform — proposing and evaluating architectural solutions, providing recommendations, and collaborating with product and engineering teams to deliver standardised, self-service workflows. In addition to implementing and operating the platform, this role is expected to propose improvements, contribute technical input to decisions, and provide clear technical recommendations. The Platform Engineer helps ensure the platform meets goals for reliability, scalability, security, and developer experience.
 
+**Scope & Accountability:** Owns platform tooling and runtime reliability, ensuring secure, scalable, and operable infrastructure that enables product delivery.
+
 @import "../../RoleOverview/PlatformRole.md"
 
 ## Responsibilities

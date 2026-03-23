@@ -1,7 +1,9 @@
-
 # Organisation Chart
 
+> **Info:** There are 28 roles and 1 external role. Totalling a team of 29.
+
 ```mermaid
+%%{init: {'themeVariables': {'fontSize': '10px'}, 'flowchart': {'nodeSpacing': 10, 'rankSpacing': 5}}}%%
 flowchart TB
     HOD[Head of Development]
 
@@ -9,13 +11,13 @@ flowchart TB
     HOD --> HOP[Head of Product]
     HOD --> HTO[Head of Technical Operations]
 
-    HOD --> FT1
+    HOD --> ET1
 
-    subgraph FT1[Feature Team]
+    subgraph ET1[Engineering Team]
         direction TB
         TL[Team Lead]
         SFE[Senior Frontend Engineer]
-        FE1[Frontend Engineers x3]
+        FE1[Frontend Engineers x4]
         SBE[Senior Backend Engineer]
         BE1[Backend Engineers x6]
         BI[BI Engineer]
@@ -27,18 +29,33 @@ flowchart TB
         BE1 --- BI
     end
 
-    subgraph PRODUCT[Product]
-        direction TB
-        PO[Product Owner]
-        BA[BA x2]
-        HOUIUX[Senior UI/UX]
-        UX[UI/UX]
+    subgraph PRODUCT[Product Team]
+        direction LR
 
+        subgraph PRODUCT_REQ[Product]
+            direction TB
+            PO[Product Owner]
+            BA[BA]
+            EBA[External BA]
 
-        PO --- BA
-        HOUIUX --- UX
+            PO --- BA
+            PO --- EBA
+        end
+
+        subgraph PRODUCT_UX[Design]
+            direction TB
+            HOUIUX[Senior UI/UX]
+            UX[UI/UX]
+
+            HOUIUX --- UX
+        end
+
+        PRODUCT_REQ --- PRODUCT_UX
     end
     HOP --> PRODUCT
+
+    classDef externalBa fill:#FFE6CC,stroke:#C97C00,color:#000;
+    class EBA externalBa;
 
     subgraph PLATFORM_SERVICES[Platform Services]
         direction TB
@@ -54,8 +71,11 @@ flowchart TB
         direction TB
         POL[Production Operations Lead]
         PRODE[Production Engineers]
+        DBA[DBA]
 
         POL --- PRODE
+        PRODE --- DBA
+        DBA --- O1D[Maintenance Developer]
     end
 
     HTO --> PLATFORM_SERVICES
@@ -78,8 +98,10 @@ flowchart TB
 - **Frontend Engineer**: `Roles/Development/FrontendEngineer.md`
 - **Senior Backend Engineer**: `Roles/Development/SeniorBackendEngineer.md`
 - **Backend Engineer**: `Roles/Development/BackendEngineer.md`
+- **Maintenance Developer**: `Roles/TechnicalOperations/MaintenanceDeveloper.md`
 - **Head of Technical Operations**: `Roles/TechnicalOperations/HeadOfTechnicalOperations.md`
 - **SysAdmin**: `Roles/TechnicalOperations/SysAdmin.md`
 - **Production Operations Lead**: `Roles/TechnicalOperations/ProductionOperationsLead.md`
+ - **DBA**: `Roles/TechnicalOperations/DBA.md`
 - **Production Engineer**: `Roles/TechnicalOperations/ProductionEngineer.md`
 - **Platform Engineer**: `Roles/TechnicalOperations/PlatformEngineer.md`

@@ -14,6 +14,7 @@ This role is focused on business intelligence and analytics development.
 
 ## Skills
 - Strong SQL skills and experience modelling data for analytics (dimensional modelling).
+- Experience with Power BI.
 - Experience building dashboards and reports and translating stakeholder needs into metrics.
 - Understanding of data quality practices, lineage, and monitoring.
 - Ability to communicate insights clearly to technical and non-technical stakeholders.

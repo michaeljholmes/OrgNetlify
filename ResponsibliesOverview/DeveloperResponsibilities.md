@@ -2,5 +2,5 @@
 - Participate in discovery, sprint planning, refinement, and stand-ups.
 - Collaborate with the team to ensure features meet acceptance criteria and quality standards.
 - Participate in peer code reviews and provide constructive feedback.
-- Break down user stories into technical tasks and estimates.
+- Aid in breaking down user stories into technical tasks and estimates.
 - Write clean, maintainable, and well-documented code that follows team standards.

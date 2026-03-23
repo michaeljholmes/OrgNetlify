@@ -1,4 +1,4 @@
 - Drive continuous improvement through metrics and feedback (delivery performance, defects, incidents, technical debt).
 - Identify where team members might need further training and assistance and where necessary, raise competency issues with Head of Development.
-- Line manage team members, including regular 1:1s and performance feedback.
+- Line manage team members, including bi-weekly 1-to-1 meetings and continuous performance feedback.
 - Participate in recruitment and onboarding of new team members.

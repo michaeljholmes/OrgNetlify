@@ -9,6 +9,7 @@ The Head of Development is responsible for the overall effectiveness of the soft
 - Set and uphold engineering standards and ways of working (quality, security, testing, code review).
 
 @import "../ResponsibliesOverview/LeadResponsibilities.md"
+@import "../ResponsibliesOverview/ManagementResponsibilities.md"
 
 ## Skills
 - Strong leadership and people management experience (coaching, performance management, career development).

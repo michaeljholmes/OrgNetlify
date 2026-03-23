@@ -5,6 +5,8 @@ The Head of Technical Operations provides technical guidance and assistance wher
 
 This role reports to the Head of Development to ensure Technical Operations aligns with business standards and priorities. The role defines efficient operational processes and ensures effective collaboration and handoffs with other teams (e.g. Support and Development) as needed.
 
+**Scope & Accountability:** Owns operational effectiveness, cross-team coordination, and service reliability across Platform Services, IT Operations, and Production Operations.
+
 @import "../../RoleOverview/TechnicalOperationsRole.md"
 
 ## Responsibilities

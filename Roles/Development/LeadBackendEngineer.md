@@ -1,14 +1,14 @@
-# Senior Backend Engineer
+# Lead Backend Engineer
 
 ## Role Summary
 This role is focused on back-end development.
-@import "../../RoleOverview/DeveloperRole.md"
+@import "../../RoleOverview/LeadDeveloperRole.md"
 
-## Responsibilities
+**Scope & Accountability:** Owns technical direction and quality bar for backend engineering, including line management, coaching, and development of backend engineers.
+
+@import "../../ResponsibliesOverview/LeadEngineerResponsibilities.md"
 
 @import "../../ResponsibliesOverview/BackendResponsibilities.md"
-
-@import "../../ResponsibliesOverview/SeniorResponsibilities.md"
 
 ## Skills
 - Deep proficiency in C#/.NET and building maintainable, well-factored services.

@@ -3,6 +3,8 @@
 ## Role Summary
 The SysAdmin is the primary hands-on administrator within IT Operations. This role specialises in day-to-day system administration work (server builds and maintenance, OS patching, user/service administration, and operational support), and is typically the first point of execution for IT Operations tasks.
 
+**Scope & Accountability:** Owns day-to-day reliability, security, and operability of IT-managed systems, ensuring core administration tasks are executed consistently and safely.
+
 @import "../../RoleOverview/ITOperationsRole.md"
 
 ## Responsibilities

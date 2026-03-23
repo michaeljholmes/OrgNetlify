@@ -3,6 +3,8 @@
 ## Role Summary
 The Head of Development is responsible for the overall effectiveness of the software engineering function, ensuring teams deliver high-quality software predictably, developing people and capability across engineering.
 
+**Scope & Accountability:** Owns engineering delivery outcomes, capability growth, and quality standards across Development and related technical functions.
+
 ## Responsibilities
 - Own engineering delivery outcomes, ensuring teams can plan and deliver work predictably with appropriate quality.
 - Build and lead high-performing engineering teams through hiring, onboarding, capability development, and retention.

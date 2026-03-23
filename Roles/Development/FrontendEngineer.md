@@ -4,6 +4,8 @@
 This role is focused on front-end development.
 @import "../../RoleOverview/DeveloperRole.md"
 
+**Scope & Accountability:** Delivers frontend features and fixes to agreed requirements and quality standards, including usability, accessibility, and reliable integration with backend services.
+
 ## Responsibilities
 
 @import "../../ResponsibliesOverview/FrontendResponsibilities.md"
@@ -21,4 +23,4 @@ This role is focused on front-end development.
 - Performance awareness (bundle size, render performance) and using browser devtools to diagnose issues.
 
 ## Reports to
-- Senior Frontend Engineer
+- Lead Frontend Engineer

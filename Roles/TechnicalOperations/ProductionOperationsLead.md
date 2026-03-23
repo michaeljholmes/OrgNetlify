@@ -5,6 +5,8 @@ The Production Operations Lead ensures the Production Operations team's work is 
 
 Where processes are not yet formalised, this role is responsible for ensuring knowledge is captured and turned into lightweight runbooks/checklists over time, so that customer-impacting work becomes more repeatable and lower-risk.
 
+**Scope & Accountability:** Owns production data operations governance, planning, and process quality, ensuring customer-impacting work is coordinated, controlled, and continuously improved.
+
 @import "../../RoleOverview/ProductionOperationsRole.md"
 
 ## Responsibilities

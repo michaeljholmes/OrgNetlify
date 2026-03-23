@@ -3,6 +3,8 @@
 ## Role Summary
 The UI/UX role works with BAs and Product Owners to define low-level, implementation-ready requirements, clear designs and consistent user experiences that meet usability and accessibility expectations across the application.
 
+**Scope & Accountability:** Delivers implementation-ready designs and specifications, ensuring usability, accessibility, and consistency across product experiences.
+
 ## Responsibilities
 - Work with BAs to define low-level requirements that are clear, testable, and fit to be delivered by development.
 - Produce wireframes and UI designs that align with product goals and user needs.
@@ -21,4 +23,4 @@ The UI/UX role works with BAs and Product Owners to define low-level, implementa
 - Familiarity with design tools and component-based design systems.
 
 ## Reports to
-- Senior UI/UX
+- Lead UI/UX

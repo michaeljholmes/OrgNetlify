@@ -4,6 +4,8 @@
 This role is focused on business intelligence and analytics development.
 @import "../../RoleOverview/DeveloperRole.md"
 
+**Scope & Accountability:** Owns delivery of analytics datasets, reporting outputs, and data quality outcomes to agreed requirements and timelines.
+
 ## Responsibilities
 - Build and maintain analytics datasets, reporting models, and semantic layers.
 - Partner with Product and Engineering to define metrics, KPIs, and reporting requirements.

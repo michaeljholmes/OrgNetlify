@@ -1,13 +1,16 @@
 # Maintenance Developer
 
 ## Role Summary
-This role is responsible for delivering features and fixes for Optix1 as part of a cross-functional engineering team.
+This role is responsible for delivering features and fixes for the Optix1 ecosystem as part of a cross-functional engineering team.
 @import "../../RoleOverview/DeveloperRole.md"
+
+**Scope & Accountability:** Primary focus is live maintenance, support-driven fixes, and continuity of Optix1; coordinates with FE/BE leads for larger feature work.
 
 ## Responsibilities
 - Deliver product features and fixes for Optix1 across the stack as required.
-- Work with the Team Lead and senior engineers to refine requirements into workable tickets.
-- Maintain quality through appropriate automated tests to prevent regressions.
+- Help with live maintenance issues.
+- Maintain and share product knowledge.
+- Work with the Team Lead to refine requirements into workable tickets where applicable.
 
 @import "../../ResponsibliesOverview/DeveloperResponsibilities.md"
 

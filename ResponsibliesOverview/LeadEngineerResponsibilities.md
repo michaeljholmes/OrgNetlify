@@ -1,4 +1,4 @@
-### Senior Responsibilities
+### Lead Engineer Responsibilities
 - Lead and uphold code reviewing standards (quality, maintainability, consistency, and constructive feedback).
 - Provide technical leadership on projects, including making pragmatic design decisions and guiding implementation.
 - Mentor and support other engineers through pairing, feedback, and knowledge sharing.

@@ -16,9 +16,11 @@ This role is focused on defining product direction and vision. It is responsible
 @import "../../ResponsibliesOverview/ManagementResponsibilities.md"
 
 ## Skills
-- Clear communication
-- Risk Management
-- Ownership and adaptability
+- Strong leadership and people management experience (coaching, performance management, capability development).
+- Ability to set product direction and priorities, balancing customer value, business outcomes, scope, and delivery constraints.
+- Strong product management judgement across discovery, roadmap planning, requirement quality, and outcome measurement.
+- Ability to partner effectively with Engineering, Design, and stakeholders to manage trade-offs, risk, and expectations.
+- Strong communication skills for decision making, alignment, and influencing across teams and senior stakeholders.
 
 ## Reports to
 - Head of Development

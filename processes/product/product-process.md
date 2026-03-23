@@ -1,4 +1,4 @@
-# Product Workflow
+# Product Process
 - **Product team** defines and maintains product quality expectations (outcomes, acceptance criteria, and prioritisation of fixes).
 - Acceptance criteria issues (missing, unclear, incorrect, or not testable) are product/requirements issues and must be resolved by the product team (**PO/BA**, with **PM** guidance).
 - For ambiguous issues (requirement interpretation vs implementation), product and development jointly triage and agree the classification before scheduling work.

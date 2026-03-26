@@ -1,4 +1,4 @@
-# Head of Product
+# Product Manager
 
 ## Role Summary
 This role is focused on defining product direction and vision. It is responsible for balancing customer and business needs, and ensuring the right product is delivered to the right users at the right time with clear business value.

@@ -11,7 +11,7 @@
     - [BI Engineer](Roles/Development/BIEngineer.md)
     - [Maintenance Developer](Roles/Development/MaintenanceDeveloper.md)
   - Product
-    - [Head of Product](Roles/Product/HeadOfProduct.md)
+    - [Product Manager](Roles/Product/ProductManager.md)
     - [Product Owner](Roles/Product/ProductOwner.md)
     - [Business Analyst](Roles/Product/BA.md)
     - [Lead UI/UX](Roles/Product/LeadUIUX.md)

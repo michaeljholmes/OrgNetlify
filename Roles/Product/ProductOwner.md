@@ -28,4 +28,4 @@ This role is focused on maximising product value by representing the customer, m
 - Sufficient technical understanding to work effectively with engineering teams, ask the right questions, and support delivery decisions.
 
 ## Reports to
-- Head of Product
+- Product Manager

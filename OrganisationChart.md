@@ -8,7 +8,7 @@ flowchart TB
     HOD[Head of Development]
 
     HOD --> TA[Technical Architect]
-    HOD --> HOP[Head of Product]
+    HOD --> HOP[Product Manager]
     HOD --> HTO[Head of Technical Operations]
 
     HOD --> ET1
@@ -24,11 +24,11 @@ flowchart TB
         O1D[Maintenance Developer]
 
         TL --> SFE
+        TL --> SBE
+        TL --> BI
+        TL --> O1D
         SFE --- FE1
-        FE1 --- SBE
         SBE --- BE1
-        BE1 --- BI
-        BI --- O1D
     end
 
     subgraph PRODUCT[Product Team]
@@ -87,7 +87,7 @@ flowchart TB
 ## Roles
 
 - **Head of Development**: `Roles/HeadOfDevelopment.md`
-- **Head of Product**: `Roles/Product/HeadOfProduct.md`
+- **Product Manager**: `Roles/Product/ProductManager.md`
 - **Technical Architect**: `Roles/TechnicalArchitect.md`
 - **Team Lead**: `Roles/Development/TeamLead.md`
 - **BI Engineer**: `Roles/Development/BIEngineer.md`

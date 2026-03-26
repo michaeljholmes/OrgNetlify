@@ -23,4 +23,4 @@ The Lead UI/UX role works closely with Product to obtain and shape requirements,
 - Ability to validate designs with users and data (testing, analytics, feedback loops).
 
 ## Reports to
-- Head of Product
+- Product Manager

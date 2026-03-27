@@ -23,25 +23,25 @@
 | Team | Role Title | Level |
 | --- | --- | --- |
 | Leadership | Head of Development | **M3** |
-| Leadership | Head of Technical Operations | **M2** |
-| Leadership | Product Manager | **M2** |
+| Leadership/Technical Operations | Head of Technical Operations | **M2** |
+| Leadership/Product | Product Manager | **M2** |
+| Leadership/Engineering | Technical Architect | **L5** |
 | Engineering | Team Lead | **M2** |
-| Engineering | Technical Architect | **L5** |
 | Engineering | Lead Frontend Engineer | **L4-M1** |
 | Engineering | Frontend Engineer | **L2-L5** |
 | Engineering | Lead Backend Engineer | **L4-M1** |
 | Engineering | Backend Engineer | **L2-L5** |
 | Engineering | BI Engineer | **L2-L5** |
 | Engineering | Maintenance Developer | **L2-L5** |
-| Product & Design | Product Owner | **L1-L5** |
-| Product & Design | Business Analyst | **L1-L5** |
-| Product & Design | Lead UI/UX | **L4-M1** |
-| Product & Design | UI/UX | **L2-L5** |
+| Product | Product Owner | **L1-L5** |
+| Product | Business Analyst | **L1-L5** |
+| Product | Lead UI/UX | **L4-M1** |
+| Product | UI/UX | **L2-L5** |
 | Technical Operations | Platform Engineer | **L2-L5** |
 | Technical Operations | SysAdmin | **L2-L5** |
-| Production Operations | Production Operations Lead | **L4-M1** |
-| Production Operations | Production Engineer | **L2-L5** |
-| Production Operations | DBA | **L2-L5** |
+| Technical Operations | Production Operations Lead | **L4-M1** |
+| Technical Operations | Production Engineer | **L2-L5** |
+| Technical Operations | DBA | **L2-L5** |
 
 ## Simple Usage in Role Specs
 

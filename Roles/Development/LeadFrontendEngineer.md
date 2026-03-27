@@ -1,24 +1,28 @@
 # Lead Frontend Engineer
 
 ## Role Summary
-This role is focused on front-end development.
+This role is focused on people leadership and delivery coordination for frontend engineering.
 @import "../../RoleOverview/LeadDeveloperRole.md"
 
-**Scope & Accountability:** Owns technical direction and quality bar for frontend engineering, including line management, coaching, and development of frontend engineers.
+**Scope & Accountability:** Owns people leadership, delivery coordination, and quality outcomes for frontend engineering. Works closely with the Team Lead to coordinate requirement breakdown, allocate work to the right engineers, and ensure effective collaboration across the team.
 
 @import "../../ResponsibliesOverview/LeadEngineerResponsibilities.md"
+
+@import "../../ResponsibliesOverview/ManagementResponsibilities.md"
 
 @import "../../ResponsibliesOverview/FrontendResponsibilities.md"
 
 ## Skills
-- Deep proficiency with React and modern frontend patterns, and ability to design maintainable UI architecture.
-- Strong JavaScript/TypeScript skills, including component/API design, typing strategy, and safe refactoring.
-- Strong UI engineering fundamentals: semantic HTML, responsive CSS, and consistent design system usage.
-- Accessibility leadership: builds inclusive UI and guides teams on practical accessibility improvements.
-- Performance ownership: diagnoses and improves render performance, loading, and bundle size using browser tooling.
-- Experience integrating with APIs (REST/GraphQL) and designing robust client-side error/loading/edge-case handling.
-- Strong testing strategy (unit/component, contract and e2e testing) and improving CI quality gates.
-- Mentors engineers through code/design reviews and drives pragmatic improvements to technical debt.
+- Strong people-management capability (coaching, feedback, performance conversations, and growth planning).
+- Ability to coordinate requirement breakdown with the Team Lead and convert priorities into workable delivery plans.
+- Good judgement in allocating work to the right team members based on skill, complexity, and development goals.
+- Strong communication and coordination skills across Product, UI/UX, Backend, and QA.
+- Ability to run effective team-level delivery cadences, unblock issues quickly, and manage dependencies.
+- Maintains frontend engineering standards for quality, accessibility, and maintainability through guidance and reviews.
+- Strong technical understanding of frontend architecture and delivery risks to support sound planning and decision-making.
+- Deep proficiency with React and modern frontend patterns, including maintainable component and UI architecture.
+- Strong JavaScript/TypeScript capability, including safe refactoring, typing strategy, and API/component design.
+- Strong frontend engineering fundamentals across accessibility, responsive UI implementation, and performance optimisation.
 
 ## Reports to
 - Team Lead

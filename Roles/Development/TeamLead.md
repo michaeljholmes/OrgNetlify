@@ -7,7 +7,9 @@ The Software Team Lead is responsible for both people and technical leadership w
 
 ## Responsibilities
 - Own the planning and delivery of work within the engineering team.
-- Lead work breakdown of requirements to workable tasks. Liaise with lead engineers to ensure tickets are of a high quality.
+- Coordinate requirement production and refinement with the Product team, ensuring engineering input is captured and requirements are clear and feasible.
+- Ensure all engineers participate in refinement activities where needed (e.g., reviewing requirements, carrying out spikes, and validating technical approaches).
+- Once requirements are ready, coordinate with the appropriate team members to break down work into well-defined, workable units.
 - Ensure the team adheres to coding standards, architectural guidelines, and quality practices.
 - Collaborate with other teams to manage dependencies and cross-team initiatives.
 

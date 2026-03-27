@@ -12,6 +12,8 @@ Where processes are not yet formalised, this role is responsible for ensuring kn
 ## Responsibilities
 @import "../../ResponsibliesOverview/ProductionOperationsResponsibilities.md"
 
+@import "../../ResponsibliesOverview/ManagementResponsibilities.md"
+
 ## Skills
 - Experience managing operational processes involving production data and customer-impacting changes
 - Ability to define and improve processes (runbooks, checklists, controls, SLAs)

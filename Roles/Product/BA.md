@@ -20,4 +20,4 @@ The role focuses on acting as a bridge between Product and the Development team 
 - Help ensure feature quality can be measured effectively through clear acceptance criteria.
 
 ## Reports to
-- Product Owner
+- Product Manager

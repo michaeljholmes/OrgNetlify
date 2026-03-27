@@ -5,6 +5,8 @@ The UI/UX role works with BAs and Product Owners to define low-level, implementa
 
 **Scope & Accountability:** Delivers implementation-ready designs and specifications, ensuring usability, accessibility, and consistency across product experiences.
 
+**Level Range:** L2-L5 (UI/UX -> Senior -> Lead -> Principal)
+
 ## Responsibilities
 - Work with BAs to define low-level requirements that are clear, testable, and fit to be delivered by development.
 - Produce wireframes and UI designs that align with product goals and user needs.

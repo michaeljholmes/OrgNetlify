@@ -5,6 +5,8 @@ This role is focused on defining product direction and vision. It is responsible
 
 **Scope & Accountability:** Owns product strategy, roadmap outcomes, and requirement quality, ensuring delivery aligns with customer value and business priorities.
 
+**Level:** M2
+
 ## Responsibilities
 - Responsible for balancing customer needs and business needs and collaborating with the technical team to define the product direction and vision.
 - Gather user insights, analyse market trends and perform competitor analysis to inform product strategy.

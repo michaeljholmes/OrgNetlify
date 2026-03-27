@@ -6,6 +6,8 @@ This role is focused on business intelligence and analytics development.
 
 **Scope & Accountability:** Owns delivery of analytics datasets, reporting outputs, and data quality outcomes to agreed requirements and timelines.
 
+**Level Range:** L2-L5 (Engineer -> Senior -> Lead -> Principal)
+
 ## Responsibilities
 - Build and maintain analytics datasets, reporting models, and semantic layers.
 - Partner with Product and Engineering to define metrics, KPIs, and reporting requirements.

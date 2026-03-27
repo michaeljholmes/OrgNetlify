@@ -5,6 +5,8 @@ The SysAdmin is the primary hands-on administrator within IT Operations. This ro
 
 **Scope & Accountability:** Owns day-to-day reliability, security, and operability of IT-managed systems, ensuring core administration tasks are executed consistently and safely.
 
+**Level Range:** L2-L5 (Engineer -> Senior -> Lead -> Principal)
+
 @import "../../RoleOverview/ITOperationsRole.md"
 
 ## Responsibilities

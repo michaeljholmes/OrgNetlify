@@ -5,6 +5,8 @@ This role is focused on maximising product value by representing the customer, m
 
 **Scope & Accountability:** Owns backlog quality, prioritisation, and requirement readiness, ensuring the Development team always has clear, valuable, and actionable work.
 
+**Level Range:** L1-L5 (Junior -> Product Owner -> Senior -> Lead -> Principal)
+
 ## Responsibilities
 - Translate the Product Manager's strategy into measurable objectives to ensure value is delivered to the business.
 - Collate user and stakeholder feedback and turn it into functional requirements.

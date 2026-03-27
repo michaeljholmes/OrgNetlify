@@ -6,6 +6,8 @@ This role is focused on front-end development.
 
 **Scope & Accountability:** Delivers frontend features and fixes to agreed requirements and quality standards, including usability, accessibility, and reliable integration with backend services.
 
+**Level Range:** L2-L5 (Engineer -> Senior -> Lead -> Principal)
+
 ## Responsibilities
 
 @import "../../ResponsibliesOverview/FrontendResponsibilities.md"

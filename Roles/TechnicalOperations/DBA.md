@@ -4,6 +4,8 @@ The Database Administrator (DBA) is responsible for the performance, integrity, 
 
 **Scope & Accountability:** Owns database reliability, performance, security, and recoverability, ensuring data platforms support application and business needs safely.
 
+**Level Range:** L2-L5 (Engineer -> Senior -> Lead -> Principal)
+
 ## Responsibilities
 - Install, configure, and maintain database management systems (SQL Server, PostgreSQL).
 - Monitor database performance and implement optimisations (indexing, query tuning).

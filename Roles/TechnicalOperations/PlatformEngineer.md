@@ -5,6 +5,8 @@ This Platform Engineer role focuses on designing, building, and operating produc
 
 **Scope & Accountability:** Owns platform tooling and runtime reliability, ensuring secure, scalable, and operable infrastructure that enables product delivery.
 
+**Level Range:** L2-L5 (Engineer -> Senior -> Lead -> Principal)
+
 @import "../../RoleOverview/PlatformRole.md"
 
 ## Responsibilities

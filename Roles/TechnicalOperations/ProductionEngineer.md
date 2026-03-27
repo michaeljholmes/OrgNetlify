@@ -7,6 +7,8 @@ The Production Engineer also contributes to improving processes and tooling used
 
 **Scope & Accountability:** Owns execution and investigation of production data operations, ensuring work is performed safely, accurately, and in line with operational controls.
 
+**Level Range:** L2-L5 (Engineer -> Senior -> Lead -> Principal)
+
 @import "../../RoleOverview/ProductionOperationsRole.md"
 
 ## Responsibilities

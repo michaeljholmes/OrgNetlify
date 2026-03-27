@@ -7,6 +7,8 @@ Where processes are not yet formalised, this role is responsible for ensuring kn
 
 **Scope & Accountability:** Owns production data operations governance, planning, and process quality, ensuring customer-impacting work is coordinated, controlled, and continuously improved.
 
+**Level:** M1 / L4
+
 @import "../../RoleOverview/ProductionOperationsRole.md"
 
 ## Responsibilities

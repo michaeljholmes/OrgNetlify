@@ -6,6 +6,8 @@ This role is focused on people leadership and delivery coordination for frontend
 
 **Scope & Accountability:** Owns people leadership, delivery coordination, and quality outcomes for frontend engineering. Works closely with the Team Lead to coordinate requirement breakdown, allocate work to the right engineers, and ensure effective collaboration across the team.
 
+**Level:** L4-M1
+
 @import "../../ResponsibliesOverview/LeadEngineerResponsibilities.md"
 
 @import "../../ResponsibliesOverview/ManagementResponsibilities.md"

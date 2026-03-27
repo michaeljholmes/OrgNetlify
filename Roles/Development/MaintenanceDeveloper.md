@@ -6,6 +6,8 @@ This role is responsible for delivering features and fixes for the Optix1 ecosys
 
 **Scope & Accountability:** Primary focus is live maintenance, support-driven fixes, and continuity of Optix1; coordinates with FE/BE leads for larger feature work.
 
+**Level Range:** L2-L5 (Engineer -> Senior -> Lead -> Principal)
+
 ## Responsibilities
 - Deliver product features and fixes for Optix1 across the stack as required.
 - Help with live maintenance issues.

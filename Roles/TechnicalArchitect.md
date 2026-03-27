@@ -5,6 +5,8 @@ The Technical Architect is responsible for defining and maintaining the architec
 
 **Scope & Accountability:** Owns architectural direction, standards, and technical governance across teams, ensuring major technical decisions align with business and engineering goals.
 
+**Level:** L5
+
 ## Responsibilities
 - Define and communicate the overarching technical and architectural direction.
 - Explains complex concepts in clear, accessible language and explains why decisions have been made to the team.

@@ -6,6 +6,8 @@ This role is focused on back-end development.
 
 **Scope & Accountability:** Delivers backend features and fixes to agreed requirements and quality standards, including reliable APIs, data integrity, and operational readiness.
 
+**Level Range:** L2-L5 (Engineer -> Senior -> Lead -> Principal)
+
 ## Responsibilities
 
 @import "../../ResponsibliesOverview/BackendResponsibilities.md"

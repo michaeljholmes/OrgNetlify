@@ -5,6 +5,8 @@ The Lead UI/UX role works closely with Product to obtain and shape requirements,
 
 **Scope & Accountability:** Owns design quality standards and design-system direction, ensuring UI/UX outputs are implementation-ready, consistent, and user-centred.
 
+**Level:** L4-M1
+
 ## Responsibilities
 - Partner with Product to define and refine requirements, user journeys, and success criteria for new features.
 - Rapidly create wireframes and interactive prototypes to explore and validate solutions before build.

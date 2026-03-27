@@ -7,6 +7,8 @@ This role reports to the Head of Development to ensure Technical Operations alig
 
 **Scope & Accountability:** Owns operational effectiveness, cross-team coordination, and service reliability across Platform Services, IT Operations, and Production Operations.
 
+**Level:** M2
+
 @import "../../RoleOverview/TechnicalOperationsRole.md"
 
 ## Responsibilities

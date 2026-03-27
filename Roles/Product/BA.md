@@ -5,6 +5,7 @@ The role focuses on acting as a bridge between Product and the Development team 
 
 **Scope & Accountability:** Owns requirement clarity and acceptance criteria quality, ensuring work handed to Development is clear, testable, and aligned to product intent.
 
+**Level Range:** L1-L5 (Junior -> Business Analyst -> Senior -> Lead -> Principal)
 ## Skills
 - Requirement elicitation and translation
 - Collaborative analysis

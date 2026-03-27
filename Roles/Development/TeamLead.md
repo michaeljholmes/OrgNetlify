@@ -5,6 +5,8 @@ The Software Team Lead is responsible for both people and technical leadership w
 
 **Scope & Accountability:** Owns team delivery outcomes, people leadership, and coordination across Product, Design, and Operations, while maintaining engineering quality standards.
 
+**Level:** M2
+
 ## Responsibilities
 - Own the planning and delivery of work within the engineering team.
 - Coordinate requirement production and refinement with the Product team, ensuring engineering input is captured and requirements are clear and feasible.

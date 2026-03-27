@@ -44,6 +44,8 @@
   - [IT Operations Responsibilities](ResponsibliesOverview/ITOperationsResponsibilities.md)
   - [Production Operations Responsibilities](ResponsibliesOverview/ProductionOperationsResponsibilities.md)
 
+- [Career Progression](CareerProgression.md)
+
 - Processes
   - Engineering
     - [Engineering Collaboration](processes/engineering/engineering-collaboration.md)

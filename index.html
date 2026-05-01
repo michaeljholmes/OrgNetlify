@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Optix Team Structure</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+  </head>
+  <body>
+    <div id="app">Loading...</div>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+      const homepage = "OrganisationChart.md";
+      const importPattern = /^\s*@import\s+"([^"]+)"\s*\.?\s*$/gm;
+      let mermaidInitialised = false;
+
+      function normalisePath(path) {
+        return path.replace(/\\/g, "/").replace(/^\//, "");
+      }
+
+      function resolveImportPath(fromFile, relativePath) {
+        const baseUrl = new URL(normalisePath(fromFile || homepage), window.location.origin + "/");
+        return normalisePath(new URL(relativePath, baseUrl).pathname);
+      }
+
+      function fetchMarkdown(path) {
+        const request = new XMLHttpRequest();
+        request.open("GET", path, false);
+        request.send(null);
+
+        if (request.status >= 200 && request.status < 300) {
+          return request.responseText;
+        }
+
+        return `> Failed to load import: ${path}`;
+      }
+
+      function expandImports(content, currentFile, visited = new Set()) {
+        let result = content;
+        let matches = [...result.matchAll(importPattern)];
+
+        while (matches.length > 0) {
+          for (const match of matches) {
+            const importStatement = match[0];
+            const importPath = resolveImportPath(currentFile, match[1]);
+            let replacement;
+
+            if (visited.has(importPath)) {
+              replacement = `> Circular import skipped: ${importPath}`;
+            } else {
+              const nextVisited = new Set(visited);
+              nextVisited.add(importPath);
+              const importedContent = fetchMarkdown(importPath);
+              replacement = expandImports(importedContent, importPath, nextVisited);
+            }
+
+            result = result.replace(importStatement, replacement);
+          }
+
+          matches = [...result.matchAll(importPattern)];
+        }
+
+        return result;
+      }
+
+      function renderMermaidDiagrams() {
+        if (!window.mermaid) {
+          return;
+        }
+
+        const diagrams = Array.from(document.querySelectorAll(".mermaid"));
+
+        if (diagrams.length === 0) {
+          return;
+        }
+
+        if (!mermaidInitialised) {
+          mermaid.initialize({ startOnLoad: false, securityLevel: "loose" });
+          mermaidInitialised = true;
+        }
+
+        diagrams.forEach((diagram) => diagram.removeAttribute("data-processed"));
+        mermaid.run({ nodes: diagrams });
+      }
+
+      window.$docsify = {
+        name: "Optix Team Structure",
+        homepage,
+        loadSidebar: "_sidebar.md",
+        alias: {
+          "/.*/_sidebar.md": "/_sidebar.md"
+        },
+        subMaxLevel: 2,
+        auto2top: true,
+        markdown: {
+          renderer: {
+            code(code, lang) {
+              if (lang === "mermaid") {
+                return `<pre class="mermaid">${code}</pre>`;
+              }
+
+              return this.origin.code.apply(this, arguments);
+            }
+          }
+        },
+        plugins: [
+          function(hook, vm) {
+            hook.beforeEach(function(content) {
+              const currentFile = normalisePath(vm.route.file || homepage);
+              return expandImports(content, currentFile);
+            });
+
+            hook.doneEach(function() {
+              renderMermaidDiagrams();
+            });
+          }
+        ]
+      };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  </body>
+  </html>

@@ -1,0 +1,8 @@
+- Drive continuous improvement through metrics and feedback (delivery performance, defects, incidents, technical debt).
+- Identify where team members might need further training and assistance and where necessary, raise competency issues with your manager or Head of Development.
+- Line manage team members, including bi-monthly 1-to-1 meetings and continuous performance feedback.
+- Own quarterly objective-setting and check-ins, and complete annual performance reviews for direct reports.
+- Build and maintain a healthy team culture by encouraging collaboration, psychological safety, accountability, and respectful communication.
+- Monitor team wellbeing and workload balance, identifying burnout risks early and taking action to rebalance priorities.
+- Support hiring by helping define role requirements, participating in interviews, and maintaining a consistent quality bar.
+- Ensure new starters have a structured onboarding plan, clear monthly goals, and regular check-ins to help them become effective quickly.

@@ -1,0 +1,1 @@
+The Software Engineer is responsible for designing, developing, testing, and maintaining high-quality software solutions. Working as part of a cross-functional engineering team, they collaborate with Product, Engineering, UI/UX, and DevOps to deliver features that are robust, maintainable, and valuable to users.

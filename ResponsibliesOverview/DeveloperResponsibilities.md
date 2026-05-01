@@ -1,6 +1,0 @@
-- Support continuous improvement initiatives in the team’s tools, processes, and practices.
-- Participate in discovery, planning, refinement, and stand-ups.
-- Collaborate with the team to ensure features meet acceptance criteria and quality standards.
-- Participate in peer code reviews and provide constructive feedback.
-- Aid in breaking down user stories into technical tasks and estimates.
-- Write clean, maintainable, and well-documented code that follows team standards.

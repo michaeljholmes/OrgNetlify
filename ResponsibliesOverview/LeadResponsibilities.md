@@ -1,2 +1,0 @@
-- Manage engineering capacity and priorities across teams, including coordinating dependencies and resolving conflicts.
-- Partner with Product leadership to shape roadmaps, manage technical risk, and communicate trade-offs.

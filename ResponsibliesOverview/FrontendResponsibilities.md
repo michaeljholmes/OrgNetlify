@@ -1,3 +1,0 @@
-- Design, build, and maintain software components for front-end systems.
-- Implement unit, contract, and (where applicable) end-to-end tests.
-- Contribute to technical documentation including READMEs.

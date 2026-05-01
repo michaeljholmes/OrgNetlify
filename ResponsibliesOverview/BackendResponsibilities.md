@@ -1,3 +1,0 @@
-- Design, build, and maintain software components for back-end systems.
-- Implement unit and integration tests.
-- Contribute to technical documentation, including READMEs and API documentation.
